@@ -1,3 +1,10 @@
+# Take n as input
+# Create a random symmetric square matrix of integers of dimension n
+# Perform eigen decomposition of the matrix
+# Reconstruct the matrix from its eigen decomposition
+# Check if reconstruction is correct
+
+
 import numpy as np
 
 
