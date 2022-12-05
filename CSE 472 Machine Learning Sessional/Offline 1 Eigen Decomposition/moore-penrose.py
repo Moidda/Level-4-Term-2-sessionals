@@ -1,3 +1,10 @@
+# Generate a random matrix of integers of dimension n,m
+# Perform singular value decomposition of that matrix
+# Perform pseudoinverse of that matrix using SVD
+# Check using python pseudoinverse that the calculated
+# pseudoinverse is correct
+
+
 import numpy as np
 
 
