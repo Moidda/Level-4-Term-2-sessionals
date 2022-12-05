@@ -1,3 +1,7 @@
+# Create a random matrix of integers of size n,n
+# Perform eigen decomposition of the matrix
+# Reconstruct the matrix and check validity
+
 import numpy as np
 
 
